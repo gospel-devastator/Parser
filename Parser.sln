@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser", "Parser\Parser.csproj", "{819F56DF-5966-4072-A1CE-7B707C9DBF0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{9FA30C02-AF43-4D33-A0C6-22677A12E63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819F56DF-5966-4072-A1CE-7B707C9DBF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819F56DF-5966-4072-A1CE-7B707C9DBF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819F56DF-5966-4072-A1CE-7B707C9DBF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819F56DF-5966-4072-A1CE-7B707C9DBF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD94A6D-D0A0-4893-A3D7-41AB2A5CF62D}
+	EndGlobalSection
+EndGlobal
